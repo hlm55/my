@@ -3,9 +3,8 @@
 	font-size:40px;
 }
 .cube{
-	position:relative;
-	top:120px;
-	left:470px;
+	margin: 80 auto;
+	border-radius:20px;
 	background-color: RGBA(0, 0, 0,0.9);
 	height:430px;
 	width:430px;
