@@ -1,0 +1,51 @@
+.font{
+	font-family:Fantasy;
+	font-size:40px;
+}
+.cube{
+	position:relative;
+	top:120px;
+	left:470px;
+	background-color: RGBA(0, 0, 0,0.9);
+	height:430px;
+	width:430px;
+	
+}
+
+.background{
+	background-image:url(FON2.jpg);
+	background-size:cover;
+}
+
+h1{
+	position:relative;
+	top:30px;
+	text-align:center;
+	color:#DCDCDC;
+	
+}
+
+p{
+	text-align:center;
+	position:relative;
+	top:100px;
+	color:#DCDCDC;
+}
+
+.a1{
+	position:relative;
+	top:280px;
+	
+}
+
+.a2{
+	position:relative;
+	top:282px;
+	left:8px;
+}
+
+.a3{
+	position:relative;
+	top:160px;
+	left:140px;	
+}

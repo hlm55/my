@@ -1,0 +1,13 @@
+.osn{
+	position:relative;
+	top:120px;
+	left:215px;
+	background-color: RGBA(219, 112, 147,0.9);
+	height:430px;
+	width:950px;
+}
+
+.background{
+	background-image:url(FON2.jpg);
+	background-size:cover;
+}
